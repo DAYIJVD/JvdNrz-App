@@ -1,0 +1,10 @@
+.img_hello img{
+    width: 100%;
+
+}
+@media (max-width:750px) {
+    .img_hello img{
+        width: 100%;
+
+    }
+}
