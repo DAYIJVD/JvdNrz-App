@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef821c4d.css",
+    "main.js": "/static/js/main.2145e01d.js",
+    "static/media/nrzjvd.gif": "/static/media/nrzjvd.1130af15f6f3ba05bf9b.gif",
+    "static/media/poster_logo.png": "/static/media/poster_logo.036b8eff69e825d633c9.png",
+    "static/media/RUNAWAY.mp3": "/static/media/RUNAWAY.d7a08f18c6a5cf28df5d.mp3",
+    "static/media/KHIYALET.mp3": "/static/media/KHIYALET.1a98168db67f9e363956.mp3",
+    "static/media/SHAYATEEN.mp3": "/static/media/SHAYATEEN.7530b40644cf69a2164e.mp3",
+    "static/media/masozam.mp3": "/static/media/masozam.c34373a28c18b738029c.mp3",
+    "static/media/Maria.mp3": "/static/media/Maria.8d7b01d466e341b0b891.mp3",
+    "static/media/GTA.mp3": "/static/media/GTA.8cfd3f261944cc9aea7c.mp3",
+    "static/media/backgrouns.jpg": "/static/media/backgrouns.6b45afcf4e6f4e831801.jpg",
+    "static/media/1.png": "/static/media/1.ce8e8b0ea40cb1358e41.png",
+    "static/media/2.png": "/static/media/2.bc80b83e70a3d83655d7.png",
+    "static/media/3.png": "/static/media/3.2d4d1b5519ab09c2ff73.png",
+    "static/media/HelloWorld.JPG": "/static/media/HelloWorld.373fbc4b440b7549a154.JPG",
+    "static/media/apill.JPG": "/static/media/apill.4c26f7e41a52e2e2b074.JPG",
+    "static/media/billbord.JPG": "/static/media/billbord.1cbad8ddaf344b177e2a.JPG",
+    "static/media/push.JPG": "/static/media/push.b605c696a4232e105356.JPG",
+    "static/media/logo.png": "/static/media/logo.6d14a1c53c44bd368d01.png",
+    "static/media/react.svg": "/static/media/react.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
+    "static/media/css.svg": "/static/media/css.dbd31fe14ec796185689723739441965.svg",
+    "static/media/HTML.svg": "/static/media/HTML.d5610cd93ec0bacca5445db85512e2b3.svg",
+    "static/media/code.svg": "/static/media/code.383f3259c49c5ff5ac7249c1e6a3462d.svg",
+    "static/media/js.svg": "/static/media/js.43e744a279a2adb2d549e76402f43593.svg",
+    "index.html": "/index.html",
+    "static/media/bx-pause.svg": "/static/media/bx-pause.c4b1989fc32e91de33f3369b7a75f16e.svg",
+    "static/media/bx-play.svg": "/static/media/bx-play.dce6a23a7f100c410280c7e2bf5e4297.svg",
+    "main.ef821c4d.css.map": "/static/css/main.ef821c4d.css.map",
+    "main.2145e01d.js.map": "/static/js/main.2145e01d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef821c4d.css",
+    "static/js/main.2145e01d.js"
+  ]
+}
