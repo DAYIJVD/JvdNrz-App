@@ -4,7 +4,7 @@
 }
 .backgroundJpg{
     height: 60vh ;
-    background: url(../picture/backgrouns.jpg) center no-repeat ;
+    background: url(../picture/backgrouns.jpg) no-repeat ;
     /* margin-bottom: 3rem; */
     position: relative;
 }
@@ -13,8 +13,8 @@
     position: absolute;
     bottom: -175px;
     right: 150px;
-    /* border-radius: 50%;
-    border: 2px solid rgb(54, 252, 209) ; */
+    border-radius: 50%;
+    border: 2px solid rgb(54, 252, 209) ;
     z-index: 2;
 }
 .backgroundJpg h1{

@@ -33,7 +33,7 @@ class Aboute extends Component {
             <div className={styles.conteiner}>
         <div className={styles.backgroundJpg}>
             <h1>JVD<span>NRZ</span></h1>
-            <img src={poster_aboute} alt='poster'/>
+            <img src="https://anonsharing.com/cache/plugins/filepreviewer/14358/fe2096fd5585c21eff429fd053cbbb90f2d18d42393d605482b038bf414a26d9/290x290_cropped.jpg" alt='poster'/>
         </div>
         <div className={styles.paragraf}>
             <p>
