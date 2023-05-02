@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import styles from './aboute.module.css';
-import poster_aboute from "../picture/poster_logo.png"
 //import-icons
 import html from "../picture/iconSvg/HTML.svg"
 import css from "../picture/iconSvg/css.svg"
