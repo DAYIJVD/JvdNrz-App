@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import styles from "./movieDes.module.css"
 class MovieDes extends Component {
     constructor(){
         super()
@@ -57,12 +57,12 @@ class MovieDes extends Component {
         const id=this.props.match.params.id;
         const movie=this.movies[id-1];
         return (
-            <div style={{backgroundColor:"black"}}>
-                <div style={{display:"flex" , justifyContent:"start",flexWrap:"wrap"} }>
-                <img src={movie.pooster} style={{width:"350px", margin:"2rem",borderRadius:"50px"}} alt='poster'/>
-                <div style={{width:"690px",margin:"2rem",color:"rgb(54, 252, 209)"}}>
-                    <h2 style={{fontSize:"40px",paddingBottom:"10px"}}>{movie.title}-<span>{movie.year}</span></h2>
-                    <p style={{fontSize:"20px"}}>{movie.description}</p>
+            <div className={styles.conteiner} >
+                <div className={styles.content}>
+                <img src={movie.pooster} alt='poster'/>
+                <div className={styles.des}>
+                    <h2>{movie.title}-<span>{movie.year}</span></h2>
+                    <p >{movie.description}</p>
                     </div>
                 </div>
 

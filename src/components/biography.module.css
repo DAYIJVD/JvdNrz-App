@@ -1,11 +1,12 @@
 .conteiner{
   background-color:rgb(0, 0, 0);
- 
+  min-height: 100vh;
 }
 .Main{
     display: flex;
     justify-content: center;
     align-items: center;
+    
     padding-bottom: 0.5rem;
     border-bottom:1px solid rgba(54, 252, 209, 0.107);
     border-top:1px solid rgba(54, 252, 209, 0.108);
@@ -39,14 +40,20 @@
 .me img:hover{
     filter: brightness(1);
 }
-@media (max-width:750px){
+@media (max-width:850px){
     .conteiner{
         background-color:rgb(0, 0, 0);
-        min-height: 65vh;
+        min-height: 100vh;
+      }
+      .Main{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
       }
     .Main img{
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
         margin: 1rem 0.5rem;
         border-radius: 50%;
         border: 2px solid rgb(54, 252, 209)  ;
@@ -54,8 +61,8 @@
         cursor: pointer;
     }
     .Main img:hover{
-        width: 90px;
-        height: 90px;
+        width: 190px;
+        height: 190px;
         filter: brightness(0.45);
         transform: rotate(360deg);
     }  

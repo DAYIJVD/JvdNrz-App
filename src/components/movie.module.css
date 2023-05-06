@@ -29,3 +29,36 @@
 .conteiner h2:hover{
       color: white;
 }
+@media (max-width:500px) {
+    .conteiner{
+        color: rgb(54, 252, 209);
+        margin:0.5rem;
+        width: 100px;
+    }
+    .conteiner img{
+        width:100%;
+        height: 160px;
+        border-radius:20px ;
+        transition: all 0.45s;
+        
+    }
+    .conteiner img:hover{
+        width:100%;
+        height: 160px;
+        border-radius:20px ;
+        filter: brightness(0.4);
+        cursor: pointer;
+        transform:translateY(-8px);
+    }
+    .conteiner h2{
+        width: 100%;
+        height: 100%;
+        font-size: 10px;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.6s;
+    }
+    .conteiner h2:hover{
+          color: white;
+    }
+}

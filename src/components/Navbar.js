@@ -121,7 +121,6 @@ class Navbar extends Component {
                 <li><NavLink exact to="/">Home</NavLink></li>
                 <li><NavLink to="/biography">Biography</NavLink></li>
                 <li><NavLink to="/entertainment">Entertainment</NavLink></li>
-                {/* {this.state.listLi.map(i=><NavButton key={i.id} url={i.url} title={i.title}/>)} */}
             </ul>
          <img className='img_logo' src={logo} alt='Logo'/>
             </div>
